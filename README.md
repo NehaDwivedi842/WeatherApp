@@ -41,12 +41,3 @@ NehaDwivedi842
 Thanks to Bootstrap for the front-end framework.
 Weather data provided by WeatherAPI.
 
-
-License
-
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Thanks to Bootstrap for the front-end framework.
-Weather data provided by WeatherAPI.
