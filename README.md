@@ -14,6 +14,8 @@ Open the index.html file in your web browser.
 
 
 Features
+
+
 City Search: Enter the name of the city to get the current weather details.
 Weather Information: Displays city name, local time, temperature, weather description, humidity, and wind speed.
 Stylish Design: The app has been styled for a clean and classy appearance.
