@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    background-color: #d8e9f3; /* Light gray background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto; /* Center the container with a margin */
+    background-color: #fff; /* White background for the container */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners for the container */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+}
+
+h1 {
+    color: #7d3737; /* Dark gray for the title */
+    text-align: center;
+}
+
+.search-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form-control {
+    width: 70%;
+    display: inline-block;
+}
+
+#searchbutton {
+    margin-left: 10px;
+}
+
+.weather-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#localImage {
+    max-width: 100%;
+    border-radius: 10px; /* Rounded corners for the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for the image */
+}
+
+/* Box styling for weather information */
+.weather-info {
+    background-color: #4d0e0e; /* Light background color for the info boxes */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px; /* Rounded corners for the info boxes */
+    box-shadow: 0 2px 4px rgba(82, 60, 60, 0.1); /* Box shadow for the info boxes */
+}
+
+.text-danger {
+    color: #d9534f; /* Bootstrap's red color for error messages */
+}
+
+.btn-primary {
+    background-color: #479efc; /* Bootstrap's primary blue color for buttons */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}

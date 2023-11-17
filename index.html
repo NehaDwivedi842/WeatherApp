@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/weather-icons/css/weather-icons.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mt-4 mb-4">Weather App</h1>
+        <div class="search-container">
+            <input id="cityinput" type="text" class="form-control" placeholder="Enter City">
+            <br>
+            <br>
+            <button id="searchbutton" class="btn btn-primary">Search</button>
+            <br>
+            <br>
+        </div>
+        <div class="weather-container mt-4">
+            <h3 id="cityname"></h3>
+            <h6 id="citytime"></h6>
+            <p id="citytemperature"></p>
+            <img id="localImage" class="img-fluid mb-3" src="http://hydrosphere.co.uk/wp-content/uploads/2020/03/weather_predictions-e1584356162376.jpg" alt="Local Weather Image">
+            <p id="weatherdescription"></p>
+            <p id="humidity"></p>
+            <p id="wind"></p>
+            <p id="error-message" class="text-danger"></p>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
