@@ -21,13 +21,13 @@ Make sure to change the api key with your account api key
 API LINK- https://www.weatherapi.com/my/ 
 
 
-Features
+##Features
 
 
 City Search: Enter the name of the city to get the current weather details.
 Weather Information: Displays city name, local time, temperature, weather description, humidity, and wind speed.
 Stylish Design: The app has been styled for a clean and classy appearance.
-Prerequisites
+##Prerequisites
 Modern web browser (Chrome, Firefox, Safari, Edge, etc.)
 Built With
 HTML
@@ -35,7 +35,7 @@ CSS
 JavaScript
 Bootstrap - Front-end framework
 WeatherAPI - Weather data API
-Author
+##Author
 NehaDwivedi842 
 
 
