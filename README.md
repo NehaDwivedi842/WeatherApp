@@ -21,7 +21,7 @@ Make sure to change the api key with your account api key
 API LINK- https://www.weatherapi.com/my/ 
 
 
-##Features
+##FEATURES
 
 
 City Search: Enter the name of the city to get the current weather details.
