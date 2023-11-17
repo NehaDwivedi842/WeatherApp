@@ -12,6 +12,7 @@ To run the Weather App locally, follow these steps:
    git clone https://github.com/NehaDwivedi842/weather-app.git
 Open the index.html file in your web browser.
 Make sure to change the api key with your account api key
+
 API LINK- https://www.weatherapi.com/my/ 
 
 
