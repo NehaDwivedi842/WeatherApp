@@ -10,7 +10,7 @@ To run the Weather App locally, follow these steps:
 
    ```bash
    git clone https://github.com/NehaDwivedi842/weather-app.git
-   Open the index.html file in your web browser.
+Open the index.html file in your web browser.
 
 
 Features
